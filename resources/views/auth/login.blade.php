@@ -1141,7 +1141,7 @@ template {
                     <a href="#nosotros" class="nav__links">we are? </a>
                 </li>
                 <li class="nav__items">
-                    <a href="{% url 'search' %}" class="nav__links">pepeeppepepe ></a>
+                    <a href="{% url 'search' %}" class="nav__links">search here  ></a>
                 </li>
 
                 <img src="{% static 'images/close.svg' %}" class="nav__close">
