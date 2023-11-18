@@ -1138,7 +1138,7 @@ template {
                     <a href="#Atencion" class="nav__links">Atencion </a>
                 </li>
                 <li class="nav__items">
-                    <a href="#nosotros" class="nav__links">Nosotros </a>
+                    <a href="#nosotros" class="nav__links">we are? </a>
                 </li>
                 <li class="nav__items">
                     <a href="{% url 'search' %}" class="nav__links">pepeeppepepe ></a>
