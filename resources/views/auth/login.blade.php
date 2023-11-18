@@ -1132,7 +1132,7 @@ template {
 
 </li>
                 <li class="nav__items">
-                    <a href="#news" class="nav__links">Juegos Nuevos</a>
+                    <a href="#news" class="nav__links">New Games Here</a>
                 </li>
                 <li class="nav__items">
                     <a href="#Atencion" class="nav__links">Atencion </a>
