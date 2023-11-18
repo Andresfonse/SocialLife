@@ -1165,7 +1165,7 @@ template {
             </x-slot>
     
             <x-validation-errors class="mb-4" />
-            <h4 style="font-family: 'Tu-Fuente-Elegante', cursive; text-align: center; color: #ffffff;">Login </h4>
+            <h4 style="font-family: 'Tu-Fuente-Elegante', cursive; text-align: center; color: #ffffff;">Inicio sesion  </h4>
     
     
             @if (session('status'))
