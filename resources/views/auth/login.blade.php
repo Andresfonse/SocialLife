@@ -1117,28 +1117,28 @@ template {
     <header class="hero">
         <nav class="nav container">
             <div class="nav__logo">
-                <h2 class="nav__title">Elli.</h2>
+                <h2 class="nav__title">Blue .</h2>
                 <img src="https://tr.rbxcdn.com/7ecab4aac37bee92a4a05bb910b2b457/250/250/Decal/Png" width="30" height="30" >
                 
             </div>
 
             <ul class="nav__link nav__link--menu">
                 <li class="nav__items">
-                    <a href="#pepe2" class="nav__links">Opiniones</a>
+                    <a href="#pepe2" class="nav__links">Commits And Social Media  </a>
                 </li>
 <li>
 
-    <a href="{% url 'wagtailadmin_home' %}" class="nav__links"> Administración</a>
+    <a href="{% url 'wagtailadmin_home' %}" class="nav__links">Administrator</a>
 
 </li>
                 <li class="nav__items">
                     <a href="#news" class="nav__links">New Games Here</a>
                 </li>
                 <li class="nav__items">
-                    <a href="#Atencion" class="nav__links">Atencion </a>
+                    <a href="#Atencion" class="nav__links">Contact us  </a>
                 </li>
                 <li class="nav__items">
-                    <a href="#nosotros" class="nav__links">we are? </a>
+                    <a href="#nosotros" class="nav__links">We  are? </a>
                 </li>
                 <li class="nav__items">
                     <a href="{% url 'search' %}" class="nav__links">search here  ></a>
@@ -1165,7 +1165,7 @@ template {
             </x-slot>
     
             <x-validation-errors class="mb-4" />
-            <h4 style="font-family: 'Tu-Fuente-Elegante', cursive; text-align: center; color: #ffffff;">Inicio sesion  </h4>
+            <h4 style="font-family: 'Tu-Fuente-Elegante', cursive; text-align: center; color: #ffffff;"> Log in  </h4>
     
     
             @if (session('status'))
