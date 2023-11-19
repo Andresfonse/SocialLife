@@ -32,7 +32,7 @@ Siga estos pasos para configurar y ejecutar el proyecto en su entorno local:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/proyecto-laravel-10.git
+   git clone git@github.com:Andresfonse/SocialLife.git
 Instala las dependencias:
 
 bash
